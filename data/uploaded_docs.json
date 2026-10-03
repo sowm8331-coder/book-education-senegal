@@ -1,0 +1,18 @@
+[
+  {
+    "id": "doc_ci_cp_recueil",
+    "title": "Recueil d'exercices CI-CP : Lecture, Écriture, Calcul & Éveil",
+    "author": "Inspection de l'Éducation Nationale (IEF)",
+    "pages": 42,
+    "category": "Éveil",
+    "level": "CI",
+    "additionalLevels": ["CP"],
+    "fileType": "pdf",
+    "thumb": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&auto=format&fit=crop&q=80",
+    "filename": "/api/documents/files/doc_ci_cp_recueil_Recueil-exercices-CI-CP-1.pdf",
+    "description": "Recueil officiel d'exercices et d'activités pédagogiques pour le cycle fondamental (CI et CP) : graphisme, sons, syllabes, nombres de 1 à 20, calcul et éveil scientifique.",
+    "tags": ["CI", "CP", "Recueil", "Exercices", "Primaire", "Sénégal"],
+    "isLocal": true,
+    "addedAt": "2026-10-02T22:00:00.000Z"
+  }
+]

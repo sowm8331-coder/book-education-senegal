@@ -1,0 +1,8 @@
+{
+  "name": "Book Education Sénégal",
+  "description": "Plateforme éducative complète du CI au Baccalauréat au Sénégal : ressources, fiches de révision, exercices, visionneuse et assistant pédagogique intelligent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
